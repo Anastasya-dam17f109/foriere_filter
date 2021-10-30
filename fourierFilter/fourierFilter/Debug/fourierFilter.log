@@ -1,0 +1,3 @@
+﻿  fft.cpp
+c:\users\anastasya\source\repos\fourierfilter\fourierfilter\fft.cpp(34): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  fourierFilter.vcxproj -> C:\Users\anastasya\source\repos\fourierFilter\Debug\fourierFilter.exe
